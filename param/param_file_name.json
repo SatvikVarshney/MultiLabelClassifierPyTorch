@@ -1,0 +1,8 @@
+{
+	"learning rate": 0.001,
+	"num iter": 10,
+	"img_rows": 14,
+	"img_cols": 14,
+	"batch_size" : 128,
+	"num_classes": 10	
+}
